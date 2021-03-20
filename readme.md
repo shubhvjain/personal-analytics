@@ -6,4 +6,4 @@ part 2 : Youtube : how many videos you watched
 
 part 3 : Strava : how much did you sweat
 
-
+**note** :  to run jupyter notebooks , create a file called `apiKeys.py`, This gitignored  file will contain all the API keys required in the notebooks to fetch data from different sources
